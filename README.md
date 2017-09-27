@@ -1,2 +1,2 @@
-# bashfw
-Bash framework is a set of scripts helps to do common things in a right way
+# beat
+Beat is a set of bash scripts that determine a brand new standard for shell programming.
